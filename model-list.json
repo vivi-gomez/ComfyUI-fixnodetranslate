@@ -5055,8 +5055,5 @@
       "url": "https://huggingface.co/jasperai/LBM_relighting/resolve/main/model.safetensors",
       "size": "5.02GB"
     },
-    {
-      "url": "https://github.com/vivi-gomez/ComfyUI-fixnodetranslate"
-    }
   ]
 }
