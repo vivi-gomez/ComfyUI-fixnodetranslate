@@ -1,6 +1,7 @@
 # ComfyUI-fixnodetranslate
 
 Addon for ComfyUI that adds 'Fix node (recreate + keep inputs)' context menu option.
+
 With this little addon you can change the language of a node (for example from Chinese to English).
 
 This is a modified fork of the node_fixer.js from ComfyUI-Manager.
