@@ -3,12 +3,16 @@ name = "fixnodetranslate"
 version = "1.0.0"
 description = "Addon for ComfyUI that adds 'Fix node (recreate + keep inputs)' context menu option"
 license = { file = "LICENSE.txt" }
+authors = [
+    { name = "vivi-gomez" }
+]
+keywords = ["comfyui", "node", "fix", "recreate", "translate", "node-translate", "fix-translate", "context-menu", "utility"]
 
 [project.urls]
 Repository = "https://github.com/vivi-gomez/ComfyUI-fixnodetranslate"
-#  Used by Comfy Registry https://comfyregistry.org
 
+# Used by Comfy Registry https://comfyregistry.org
 [tool.comfy]
 PublisherId = "vivi-gomez"
-DisplayName = "ComfyUI-fixnodetranslate"
+DisplayName = "ComfyUI Fix Node Translate"
 Icon = ""
